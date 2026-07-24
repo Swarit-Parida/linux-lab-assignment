@@ -1,0 +1,10 @@
+INFO: Server started successfully
+INFO: User login successful
+ERROR: Database connection failed
+INFO: Request received
+ERROR: Disk space low
+INFO: Service restarted
+ERROR: Network timeout
+INFO: Backup completed
+ERROR: Permission denied
+ERROR: Disk full - triggered live
