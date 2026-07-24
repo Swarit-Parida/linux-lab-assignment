@@ -1,6 +1,6 @@
 # BITS-Assignment-2
 
-**Name:** Prakhar Kishore Pandey
+**Name:** Swarit Parida
 **Course:** Command Line Interfaces and Scripting
 
 ## Repository Contents
